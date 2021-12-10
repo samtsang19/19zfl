@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### Welcome to my Github 💖
 
-                                                          ![68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966](https://user-images.githubusercontent.com/86781079/145531260-6d78870d-7398-4de4-9af9-23e83358190b.gif)
-                                              
+        ![68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966](https://user-images.githubusercontent.com/86781079/145531302-965bae63-ac44-445d-a192-378977aa1878.gif)
+                                      
 
 <!--
 **19zfl/19zfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
