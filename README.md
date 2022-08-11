@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glith.me/19zfl/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)
 
 
 
