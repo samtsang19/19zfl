@@ -2,10 +2,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
 
-<!--访客统计
-![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)
--->
-
 <div align="center">
   <a href="https://blog.csdn.net/m0_53692627?type=blog"><img src="https://img.shields.io/badge/csdn-%E5%8D%9A%E5%AE%A2-orange" title="public/已公开" /></a>
   <a href="#"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4" title="private/私密" /></a>
@@ -89,8 +85,9 @@
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=19zfl&theme=xcode" /> </div>
 
+# Test Widget Area:
 
-
+My![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)visitor
 
 
 
