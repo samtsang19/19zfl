@@ -6,6 +6,17 @@ My![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)visitor
 
 # 👋 Hello
 
+👩‍💻 Tools
+
+![intellijidea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![visual studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![westorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+![clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![android studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![windows terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+
 💪 Currently learning
 
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
@@ -43,6 +54,11 @@ My![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)visitor
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Deepin](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)
 ![Cent OS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+
+<div align="center">
+  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=19zfl&theme=blue-green"/>
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19zfl&theme=blue-green"/>
+</div>
 
 # ⚒️ My Better Study Project
 
