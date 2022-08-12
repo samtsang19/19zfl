@@ -60,7 +60,6 @@ My![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)visitor
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-
 <div align="center">
   <img alt="jetbrains" src="https://media.giphy.com/media/VXemWL83bMJXABeIP5/giphy.gif" width="100" title="JetBrains" />
   <img alt="vscode" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="100" title="Vscode" />
@@ -70,7 +69,6 @@ My![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)visitor
 </div>
 
 # About My Github
-
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=19zfl" /> </div>
 
