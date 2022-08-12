@@ -15,7 +15,7 @@ My![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)visitor
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=19zfl&repo=AndroidContacts&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
-👩‍💻 Tools
+🧰 Tools
 
 ![intellijidea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -25,6 +25,8 @@ My![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)visitor
 ![android studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![windows terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 💪 Currently learning
 
@@ -52,6 +54,21 @@ My![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)visitor
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
+ 💻 OS:
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+
+<div align="center">
+  <img alt="jetbrains" src="https://media.giphy.com/media/VXemWL83bMJXABeIP5/giphy.gif" width="100" title="JetBrains" />
+  <img alt="vscode" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="100" title="Vscode" />
+  <img alt="github" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" title="Github" />
+  <img alt="android" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="100" title="Android" />
+  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
+</div>
+
 # About My Github
 
 
@@ -63,6 +80,25 @@ My![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)visitor
 </div>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=19zfl&theme=xcode" /> </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
