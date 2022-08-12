@@ -44,7 +44,7 @@ My![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)visitor
 ![Deepin](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)
 ![Cent OS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 
-# ⚒️ Better Project
+# ⚒️ My Better Study Project
 
 <div align="center">
 <a href="https://github.com/19zfl/OrderOnlineSystem">
