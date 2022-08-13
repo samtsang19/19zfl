@@ -3,7 +3,7 @@
 </div> 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=30&pause=1000&color=000000&background=FFF636&vCenter=true&width=435&lines=Zhang+Ying+is+a+pig+!+hh" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=30&pause=1000&color=000000&background=FFF636&vCenter=true&width=500&lines=Zhang+Ying+is+a+pig+!+hh" alt="Typing SVG" /></a>
 </div>
   
 <div align="center">
