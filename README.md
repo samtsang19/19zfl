@@ -27,23 +27,23 @@
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="官网下载" /></a>
 <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" title="官网下载" /></a>
 <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" title="官网下载" /></a>
-<a href="https://www.jetbrains.com/clion/"><img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" title="点击直达官网" /></a>
+<a href="https://www.jetbrains.com/clion/"><img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" title="官网下载" /></a>
 <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" title="官网下载" /></a>
 <a href="https://github.com/microsoft/terminal"><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" title="点击直达GitHub项目" /></a>
 <a href="https://www.google.com/chrome/"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" title="官网下载" /></a>
 <a href="https://www.microsoft.com/en-us/edge"><img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" title="官网下载" /></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="不用点击啦" /></a>
-<a href=""><img src="" title="" /></a>
 
 💪 Currently Learning
 
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
-![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java" title="点击直达官网" /></a>
+<a href="https://www.google.com/search?q=html5&oq=&aqs=chrome.6.35i39i362l5j69i59i450l3.73540j0j7&sourceid=chrome&ie=UTF-8"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="点击搜索" /></a>
+<a href="https://www.google.com/search?q=css3&sxsrf=ALiCzsbV-JS4LckxhV24YIgdKJIrLwnrwg%3A1660356443395&ei=Wwf3YvndF_CWkPIPl4-VyAU&ved=0ahUKEwi594jg3cL5AhVwC0QIHZdHBVkQ4dUDCA4&uact=5&oq=css3&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEMyBAgAEEMyBAgAEEMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIABBHELADOgQIIxAnOgoILhDHARDRAxBDOgsILhCABBDHARDRAzoFCC4QgARKBAhBGABKBAhGGABQ1AlYtBZgpxhoAXABeACAAasCiAGVCZIBAzItNJgBAKABAcgBCsABAQ&sclient=gws-wiz"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="点击直达官网" /></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="点击直达官网" /></a>
+<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="点击直达官网" /></a>
+<a href="https://www.google.com/search?q=markdown&oq=markdown&aqs=chrome..69i57j0i512l4j69i60l3.1960j0j7&sourceid=chrome&ie=UTF-8"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" title="点击直达官网" /></a>
+<a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="点击直达官网" /></a>
+<a href=""><img src="" title="" /></a>
 
 ✍️ Planning To Study
 
