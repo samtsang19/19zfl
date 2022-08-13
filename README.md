@@ -23,15 +23,15 @@
 
 🧰 Tools
 
-<a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" title="点击直达官网"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="点击直达官网" /></a>
-<a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" title="点击直达官网" /></a>
-<a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" title="点击直达官网" /></a>
+<a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" title="官网下载"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="官网下载" /></a>
+<a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" title="官网下载" /></a>
+<a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" title="官网下载" /></a>
 <a href="https://www.jetbrains.com/clion/"><img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" title="点击直达官网" /></a>
-<a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" title="点击直达官网" /></a>
+<a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" title="官网下载" /></a>
 <a href="https://github.com/microsoft/terminal"><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" title="点击直达GitHub项目" /></a>
-<a href="https://www.google.com/chrome/"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" title="点击直达官网" /></a>
-<a href="https://www.microsoft.com/en-us/edge"><img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" title="点击直达官网" /></a>
+<a href="https://www.google.com/chrome/"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" title="官网下载" /></a>
+<a href="https://www.microsoft.com/en-us/edge"><img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" title="官网下载" /></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="不用点击啦" /></a>
 <a href=""><img src="" title="" /></a>
 
