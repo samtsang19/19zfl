@@ -7,8 +7,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=50&pause=1000&color=000000&background=FFF636&vCenter=true&width=660&height=60&lines=Zhang+Ying+is+a+pig+!+hh" alt="Typing SVG" /></a>
 </div>
 -->
-
-----------
   
 <div align="center">
   <a href="https://blog.csdn.net/m0_53692627?type=blog"><img src="https://img.shields.io/badge/csdn-%E5%8D%9A%E5%AE%A2-orange" title="public/已公开" /></a>
@@ -17,8 +15,6 @@
   <a href="#"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-blue" title="private/私密" /></a>
   <a><img src="https://visitor-badge.glitch.me/badge?page_id=19zfl" alt="访客统计" /></a>
 </div>
-
----------
 
 # 👋 Hello
 
