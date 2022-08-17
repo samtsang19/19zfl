@@ -2,7 +2,9 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
 
+<!--
 My![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)visitor
+-->
 
 <!--
 <div align="center">
